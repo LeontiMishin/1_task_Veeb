@@ -9,4 +9,4 @@ vastutuse jagamine meeskonnas.
 - Leonti Mishin(arendaja)
 - Dmitri Maslov(arendaja)
 ## Juhend avamiseks
-Avada fail avaleht.html
+Laadige projekt alla ja kaivitage see Visual Studio Code (Live Server)
